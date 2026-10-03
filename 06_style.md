@@ -1,4 +1,4 @@
-[Ilse Garnier](assets/img/ilse garnier.jpeg)
+![Ilse Garnier](assets/img/ilse garnier.jpeg)
 
 ![Jen Bervin](assets/img/jen bervin.jpg)
 
