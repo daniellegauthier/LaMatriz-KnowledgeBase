@@ -1,13 +1,13 @@
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![Ilse Garnier]([assets/img/ilse garnier.jpeg])
 
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![Jen Bervin]([assets/img/jen bervin.jpeg])
 
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![Katalin Ladik]([assets/img/katalin ladik.jpeg])
 
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![M Nourbese Philip]([assets/img/m nourbese philip.jpeg])
 
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![Madeline Gins]([assets/img/madeline gins.jpeg])
 
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![Mira Schendel]([assets/img/mira schendel.jpeg])
 
-![Ilse Garnier]([http://url/to/img.png](https://github.com/daniellegauthier/LaMatriz-KnowledgeBase/blob/15c35e256b22c00574cdd6ed9445f29b4aa38d2d/assets/img/ilse%20garnier.jpeg))
+![Susan Howe]([assets/img/susan howe.jpeg])
